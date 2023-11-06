@@ -128,7 +128,7 @@ CRUD для модели поставщика (запретить обновле
 Команды ниже необходимо вводить через терминал PyCharm
 
 Склонировать проект в PyCharm:
-git clone https://github.com/Olga-Yar/FinalWork.git
+git clone https://github.com/AlisaV365/Att.git
 
 Нажать Enter
 
